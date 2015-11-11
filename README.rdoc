@@ -1,0 +1,3 @@
+= Migration1x
+
+This project rocks and uses MIT-LICENSE.

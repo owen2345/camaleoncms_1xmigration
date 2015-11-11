@@ -1,0 +1,21 @@
+{
+  "title": "Migration1x",
+  "descr": "Permit to migrate from version 1x into 2+ version.",
+  "version": "0.1",
+  "key": "migration1x",
+  "helpers": [
+    "Plugins::Migration1x::MainHelper"
+  ],
+  "hooks": {
+//    "on_active": [
+//      "migration1x_on_active"
+//    ],
+//    "on_inactive": [
+//      "migration1x_on_inactive"
+//    ],
+//    "on_upgrade": [
+//      "migration1x_on_upgrade"
+//    ]
+    //here you can add all your hooks (read documentation)
+  }
+}
