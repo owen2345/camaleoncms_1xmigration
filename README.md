@@ -5,7 +5,7 @@ This is a gem patch for Camaleon CMS version 1x to use Camaleon CMS version 2x.
 * Add this in your Gemfile
 
 ```
-gem "camaleon_cms", github: 'owen2345/camaleoncms_1xmigration'
+gem "migration1x", github: 'owen2345/camaleoncms_1xmigration'
 ```
 
 * Install gem
